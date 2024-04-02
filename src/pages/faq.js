@@ -25,7 +25,7 @@ const FaqPage = (props) => {
                 To review the status of your order please visit the "My Orders"
                 section of your Sunspel Account. You should receive an email
                 notification when your package is dispatched. Please check your
-                email inbox and your junk filter.
+                email inbox and your junk filter. <a href="https://perledecoton.com>linge de maison</a>
               </p>
               <p>
                 We dispatch all orders within 24 hours of being placed. During
